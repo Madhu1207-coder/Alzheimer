@@ -8,56 +8,7 @@ NeuroJarvis CDSS is a comprehensive dashboard demonstrating an AI-powered clinic
 
 
 
-# 🧠 NeuroJarvis CDSS — AI Output Gallery
 
-> Multi-modal clinical AI outputs from MRI, handwriting, biomarkers, dashboard, and multilingual systems.
-
----
-
-## 🧠 Main Dashboard
-
-<p align="center">
-  <img src="assets/dashboard.png" width="800"/>
-</p>
-
----
-
-## 🧠 MRI Analysis
-
-<p align="center">
-  <img src="assets/mri_1.png" width="400"/>
-  <img src="assets/mri_2.png" width="400"/>
-</p>
-
----
-
-## ✍️ Handwriting Analysis
-
-<p align="center">
-  <img src="assets/handwriting_1.png" width="400"/>
-  <img src="assets/handwriting_2.png" width="400"/>
-</p>
-
----
-
-## 🧬 Biomarker Analysis
-
-<p align="center">
-  <img src="assets/biomarker_1.png" width="400"/>
-  <img src="assets/biomarker_2.png" width="400"/>
-</p>
-
----
-
-## 🌐 Multilingual Support
-
-<p align="center">
-  <img src="assets/lang_english.png" width="260"/>
-  <img src="assets/lang_tamil.png" width="260"/>
-  <img src="assets/lang_hindi.png" width="260"/>
-</p>
-
----
 
 ## Key Features
 
