@@ -250,9 +250,4 @@ Note: Live streaming features were removed from the default Biomarker dashboard 
 
 
 
-Got it — you need something that **works perfectly when pasted directly into GitHub README without breaking layout**, not a mixed/unsafe HTML table.
-
-Here is a **fully GitHub-safe, copy-paste ready README gallery section** using only Markdown (reliable rendering everywhere):
-
----
 
