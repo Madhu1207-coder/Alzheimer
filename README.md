@@ -6,6 +6,59 @@ AI-Powered Clinical Decision Support System for Early Alzheimer's Disease Detect
 
 NeuroJarvis CDSS is a comprehensive dashboard demonstrating an AI-powered clinical decision support system designed for early Alzheimer's disease detection. The system implements a tiered, multi-modal diagnostic approach that integrates clinical assessments, digital handwriting analysis, blood biomarkers, and structural MRI neuroimaging.
 
+
+
+# 🧠 NeuroJarvis CDSS — AI Output Gallery
+
+> Multi-modal clinical AI outputs from MRI, handwriting, biomarkers, dashboard, and multilingual systems.
+
+---
+
+## 🧠 Main Dashboard
+
+<p align="center">
+  <img src="assets/dashboard.png" width="800"/>
+</p>
+
+---
+
+## 🧠 MRI Analysis
+
+<p align="center">
+  <img src="assets/mri_1.png" width="400"/>
+  <img src="assets/mri_2.png" width="400"/>
+</p>
+
+---
+
+## ✍️ Handwriting Analysis
+
+<p align="center">
+  <img src="assets/handwriting_1.png" width="400"/>
+  <img src="assets/handwriting_2.png" width="400"/>
+</p>
+
+---
+
+## 🧬 Biomarker Analysis
+
+<p align="center">
+  <img src="assets/biomarker_1.png" width="400"/>
+  <img src="assets/biomarker_2.png" width="400"/>
+</p>
+
+---
+
+## 🌐 Multilingual Support
+
+<p align="center">
+  <img src="assets/lang_english.png" width="260"/>
+  <img src="assets/lang_tamil.png" width="260"/>
+  <img src="assets/lang_hindi.png" width="260"/>
+</p>
+
+---
+
 ## Key Features
 
 ### 🧠 Multi-Modal Assessment Pipeline
@@ -243,3 +296,12 @@ For questions about the NeuroJarvis CDSS project, please contact the development
 ## Real-time streaming (SSE)
 
 Note: Live streaming features were removed from the default Biomarker dashboard UI. A development SSE helper remains in the repository (not enabled by default). If you want streaming re-enabled or production-grade pub/sub, I can add server-side persistence and pub/sub integration.
+
+
+
+Got it — you need something that **works perfectly when pasted directly into GitHub README without breaking layout**, not a mixed/unsafe HTML table.
+
+Here is a **fully GitHub-safe, copy-paste ready README gallery section** using only Markdown (reliable rendering everywhere):
+
+---
+
