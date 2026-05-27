@@ -1,4 +1,14 @@
-*.css linguist-detectable=true
-*.py linguist-detectable=true
-*.ipynb linguist-detectable=true
-*.py linguist-detectable=true
+# Force Python detection
+*.py linguist-language=Python
+
+# Force TypeScript detection
+*.tsx linguist-language=TypeScript
+
+# Force JavaScript detection
+*.js linguist-language=JavaScript
+
+# Force CSS detection
+*.css linguist-language=CSS
+
+# Force Jupyter Notebook
+*.ipynb linguist-language=Jupyter Notebook
